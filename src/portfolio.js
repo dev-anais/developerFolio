@@ -14,7 +14,7 @@ const greeting = {
   username: "EunHye Yun",
   title: "Hello, I'm EunHye",
   subTitle: emoji(
-    " A front-end developer with over 3 years' experience and zest for solving complex problems. I have an experience of building Web and Mobile applications with JavaScript / Reactjs / Redux. And I believe programming can make life easier"
+    " A front-end developer with over 3 years' experience and zest for solving complex problems. I have an experience of building Web and Mobile applications with JavaScript / Reactjs / Redux. And I believe programming can make life easier."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1s7SfE4CLIL8CfDllSujqgu350nK_VpQO/view?usp=sharing",
