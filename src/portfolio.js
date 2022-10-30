@@ -25,7 +25,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/dev-anais",
-  linkedin: "https://www.linkedin.com/in/eunhye-lily-yun/",
+  linkedin: "https://www.linkedin.com/in/eunhye-anais-yun/",
   gmail: "anaisleh33@gmail.com",
   display: true // Set true to display this section, defaults to false
 };
