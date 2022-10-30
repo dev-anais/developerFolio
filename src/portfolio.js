@@ -14,10 +14,10 @@ const greeting = {
   username: "EunHye Yun",
   title: "Hello, I'm EunHye",
   subTitle: emoji(
-    " A front-end developer with over 3 years' experience and zest for solving complex problems. I have an experience of building Web and Mobile applications with JavaScript / Reactjs / Redux. And I believe programming can make life easier."
+    " A front-end developer with over 4 years' experience and zest for solving complex problems. I have an experience of building Web and Mobile applications with JavaScript / React. And I believe programming can make life easier."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1s7SfE4CLIL8CfDllSujqgu350nK_VpQO/view?usp=sharing",
+    "https://drive.google.com/file/d/1ojMREH2n-mJFivnIeNQzV7pyzWVLENOf/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -41,7 +41,7 @@ const skillsSection = {
     emoji(
       "⚡ Integration of third party services such as Firebase/ Airbridge "
     ),
-    emoji("⚡ Web server installation and maintenance")
+    emoji("⚡ Logical thinking for user-friendly products")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -134,13 +134,24 @@ const workExperiences = {
   experience: [
     {
       role: "Front-End Developer",
+      company: "Goodoc",
+      companylogo: require("./assets/images/goodocLogo.png"),
+      date: "May 2022 – Present",
+      desc: "Responsible for developing a halthcare super application.",
+      descBullets: [
+        "Goodoc web app Development",
+        "Developing an application for telehealth"
+      ]
+    },
+    {
+      role: "Front-End Developer",
       company: "Zimssa",
       companylogo: require("./assets/images/zimssaLogo.png"),
-      date: "August 2020 – Present",
+      date: "August 2020 – December 2021",
       desc: "Responsible for developing the driver app and the customer app of the moving platform business.",
       descBullets: [
         "Zimssa customer and driver app Development & Maintenance",
-        "Automating deployment using shell script and javascript"
+        "Launching and operating a cleaning service"
       ]
     },
     {
